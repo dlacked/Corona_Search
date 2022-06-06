@@ -1,0 +1,25 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\imcy0\\documents\\project1\\project1\\domestic.c",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\ucrt\\stdio.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\ucrt\\corecrt.h",
+            "d:\\microsoft visual studio\\2022\\vc\\tools\\msvc\\14.31.31103\\include\\vcruntime.h",
+            "d:\\microsoft visual studio\\2022\\vc\\tools\\msvc\\14.31.31103\\include\\sal.h",
+            "d:\\microsoft visual studio\\2022\\vc\\tools\\msvc\\14.31.31103\\include\\concurrencysal.h",
+            "d:\\microsoft visual studio\\2022\\vc\\tools\\msvc\\14.31.31103\\include\\vadefs.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\ucrt\\corecrt_stdio_config.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\ucrt\\string.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\ucrt\\corecrt_memory.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\ucrt\\corecrt_memcpy_s.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\ucrt\\errno.h",
+            "d:\\microsoft visual studio\\2022\\vc\\tools\\msvc\\14.31.31103\\include\\vcruntime_string.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\ucrt\\corecrt_wstring.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\ucrt\\ctype.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\ucrt\\corecrt_wctype.h"
+        ]
+    }
+}
